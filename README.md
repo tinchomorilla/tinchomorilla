@@ -26,7 +26,7 @@ _Focusing on Distributed Systems and Software Architecture._
 
 ### 🚀 Current Projects
 
-- **MLOps Platform** — An advanced environment for evaluating Machine Learning models using [Conformal Prediction](https://arxiv.org/abs/2107.07511), ensuring statistical Rigor in model deployment. [More details](https://www.linkedin.com/posts/edgardomarchi_github-edgardomarchiutrace-uncertainty-activity-7417265776631635968-m8yG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhSoeYBkvSovKUgvEBNhfnQpcKneUuUJnw)
+- **MLOps Platform** — An environment for evaluating Machine Learning models using [Conformal Prediction](https://arxiv.org/abs/2107.07511), to provide formal and traceable uncertainty guarantees. . [More details](https://www.linkedin.com/posts/edgardomarchi_github-edgardomarchiutrace-uncertainty-activity-7417265776631635968-m8yG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhSoeYBkvSovKUgvEBNhfnQpcKneUuUJnw).
 
 - **University Collaboration Platform** — A specialized ecosystem designed for students to connect and collaborate on academic and professional projects.
 
@@ -36,4 +36,5 @@ _Focusing on Distributed Systems and Software Architecture._
 
 - **Email:** [martinmorilla37@gmail.com](mailto:martinmorilla37@gmail.com)
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/martin-morilla-6b243429a/)
+
 
