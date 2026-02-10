@@ -1,6 +1,6 @@
 # Hi, I'm Martín Morilla
 
-**Software Engineer | [FIUBA](https://www.fi.uba.ar/) Graduate**
+**Software Engineer | [University of Buenos Aires](https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica) Graduate**
 _Focusing on Distributed Systems and Software Architecture._
 
 ---
